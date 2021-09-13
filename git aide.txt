@@ -1,0 +1,10 @@
+création  du projet :
+
+mkdir nomprojet
+git init
+touch index.html
+git status
+git add index.html
+git status
+git commit -m 
+git status
